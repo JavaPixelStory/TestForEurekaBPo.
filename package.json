@@ -1,0 +1,15 @@
+{
+  "name": "test-for-eureka-b-p-o",
+  "version": "1.0.0",
+  "description": "check-username",
+  "main": "express.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrey",
+  "license": "ISC"
+}
